@@ -1,0 +1,6 @@
+==================================
+Warehouse: main storage
+==================================
+No products available in this warehouse.
+
+
